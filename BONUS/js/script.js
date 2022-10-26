@@ -56,7 +56,7 @@ eleBtnUp.addEventListener('click', function () {
 	if (activeIndex === 0) {
 		listEleImg[activeIndex].classList.remove('active')
 
-		activeIndex=5
+		activeIndex=4
 
 		listEleImg[activeIndex].classList.add('active');
 	}
